@@ -15,7 +15,7 @@ Jadi nanti kalo mau melakukan insert data itu akan muncul dropdown dari table pr
 
 ## 2. Penjelasan Detail tiap tabel
 
-### 1. Students
+### 1) Students
 Berikut isi atribut serta deskripsinya
 | Atribut        | Deskripsi                              |
 |----------------|----------------------------------------|
@@ -30,7 +30,7 @@ Berikut isi atribut serta deskripsinya
 Keterangan:
 Tabel student ini akan menjadi main table yang berisi semua identitas atau biodata pada mahasiswa. Memiliki foreign key yang merujuk ke table prestasi dan akademik
 
-### 2. Prestasi
+### 2) Prestasi
 Berikut isi atribut serta deskripsinya
 | Atribut        | Deskripsi                              |
 |----------------|----------------------------------------|
@@ -40,7 +40,7 @@ Berikut isi atribut serta deskripsinya
 Keterangan:
 Tabel prestasi ini akan jadi patokan untuk hal hal yang berkaitan dengan prestasi yang akan dipakai di tabel students.
 
-### 3. Akademik
+### 3) Akademik
 Berikut isi atribut serta deskripsinya
 | Atribut        | Deskripsi                              |
 |----------------|----------------------------------------|
